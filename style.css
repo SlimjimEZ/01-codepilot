@@ -2,18 +2,8 @@
 /* Give the header
  a blue color with white text */
 header {
-  background-color: #ffffff; /* Bootstrap's primary blue */
+  background-color: blue;
   color: white;
-  padding: 10px;
-}
-body {
-  background-color: #ffffff; /* Bootstrap's primary blue */
-  color: white;
-  font-family: Arial, sans-serif;
-  margin: 0;
   padding: 20px;
-}
-html {
-  height: 100%;
-  width: 100%;
-}
+  text-align: center;
+}   
